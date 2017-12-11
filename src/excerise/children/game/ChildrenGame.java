@@ -1,6 +1,6 @@
-package excerise.ashwini;
+package excerise.children.game;
 
-public class Children {
+public class ChildrenGame {
 
 	public static void main(String[] args) {
 		while (true) {

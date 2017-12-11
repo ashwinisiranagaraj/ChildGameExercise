@@ -1,11 +1,10 @@
-package test.children.game;
+package excerise.children.game;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import excerise.ashwini.Child;
-import excerise.ashwini.Children;
+import excerise.children.game.Child;
 
 public class ChildrenGameTest {
 	Child child = new Child();
